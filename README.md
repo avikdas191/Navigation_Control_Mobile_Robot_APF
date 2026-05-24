@@ -1,4 +1,4 @@
-# Library-Bot: Autonomous Navigation Using APF in a Simulated Library Environment
+# Library-Bot: Multi-Robot Autonomous Navigation Using APF for Library Task Delivery
 
 A MATLAB-based multi-robot navigation system using the Artificial Potential Field (APF) algorithm, simulating three autonomous robots navigating a university library environment with static and dynamic obstacles.
 
